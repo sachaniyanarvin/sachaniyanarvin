@@ -1,3 +1,4 @@
+![logo](https://github.com/sachaniyanarvin/sachaniyanarvin/blob/main/LinkedIn%20Profile%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Narvin Sachaiya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
